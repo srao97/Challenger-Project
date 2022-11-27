@@ -4,7 +4,7 @@
 		<members>Account_Contact_Address_changed</members>
 		<members>IsPrimary_Check</members>
 		<members>Is_Primary_Contact_Changed</members>
-		<name>FlowDefinition</name>
+		<name>Flow</name>
 	</types>
 	<version>55.0</version>
 </Package>
