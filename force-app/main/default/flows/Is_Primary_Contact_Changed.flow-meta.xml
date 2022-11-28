@@ -52,10 +52,10 @@
         <locationY>389</locationY>
         <filterLogic>and</filterLogic>
         <filters>
-            <field>AccountId</field>
+            <field>Id</field>
             <operator>EqualTo</operator>
             <value>
-                <elementReference>$Record.Primary_Contact__c</elementReference>
+                <elementReference>$Record__Prior.Primary_Contact__r.Id</elementReference>
             </value>
         </filters>
         <inputAssignments>
